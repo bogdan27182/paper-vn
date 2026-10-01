@@ -1,0 +1,5 @@
+Initialized levels 0..38 without signed overflow.
+Region R: 55492541 recurrence windows, 0 failures.
+Absent argument triples: 113 122 123 131 221 311 313 321
+Present triples: 56.
+Axis separators verified for 58 <= s < 613224; 204387 edge endpoints have non-white neighbours.

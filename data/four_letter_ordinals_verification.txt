@@ -1,0 +1,10 @@
+m= 2: sub-box cells       225 (mismatch 0), core-wall cells      12 (mismatch 0), frame cells      248 (mismatch 0)
+m= 3: sub-box cells      1387 (mismatch 0), core-wall cells      48 (mismatch 0), frame cells      712 (mismatch 0)
+m= 4: sub-box cells      6257 (mismatch 0), core-wall cells     156 (mismatch 0), frame cells     2040 (mismatch 0)
+m= 5: sub-box cells     24843 (mismatch 0), core-wall cells     480 (mismatch 0), frame cells     5960 (mismatch 0)
+m= 6: sub-box cells     92353 (mismatch 0), core-wall cells    1452 (mismatch 0), frame cells    17656 (mismatch 0)
+m= 7: sub-box cells    329963 (mismatch 0), core-wall cells    4368 (mismatch 0), frame cells    52680 (mismatch 0)
+m= 8: sub-box cells   1147857 (mismatch 0), core-wall cells   13116 (mismatch 0), frame cells   157688 (mismatch 0)
+middle block = P_1 with dashed walls: mismatches 0
+boxes of C inside s < 200000, half-width <= 100: 33327
+rectangles found 33327, equal to boxes of C: 33327, others: 0 (boxes expected 33327)

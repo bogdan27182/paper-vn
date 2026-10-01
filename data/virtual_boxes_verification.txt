@@ -1,0 +1,4 @@
+P_n and Q_n assembly, levels 1..8: 1622784 constituent cells, no mismatches.
+Level-zero exception: ordinary centre 1, virtual centre 0; verified.
+Closed formulas for all child offsets, levels 1..8: verified.
+Global virtual boxes V_0, V_1, V_2: 4542171 cells, no mismatches.

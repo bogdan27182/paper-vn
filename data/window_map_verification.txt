@@ -1,0 +1,3 @@
+All frame windows at levels 6..8: 123540 ordered windows, no mismatches.
+Including representatives at levels 9..30: 135112 ordered frame windows, no mismatches.
+Block-boundary representatives in blocks 3..9: 8190 ordered windows, no mismatches.

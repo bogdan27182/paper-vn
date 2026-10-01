@@ -1,0 +1,8 @@
+Horizontal-edge catalogue: 7930 ordered windows, no failures.
+Wall catalogue: 1570 ordered windows, no failures.
+Central catalogue, levels 3..15: 858 ordered windows, no failures.
+Central formula compared with the five geometric contexts: 4290 matches.
+The catalogue contains 21 distinct ordered value quadruples.
+Initial exceptional cell and its successors: all three nonnegative-position cases verified.
+Edge reductions at levels 20..32: 12710 ordered windows agree.
+Central reductions at levels 20..32: 741 ordered windows agree.

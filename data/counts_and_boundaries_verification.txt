@@ -1,0 +1,5 @@
+Arithmetic terms, bases 3 and 8: all n=1..200 agree with the recurrence.
+Levels 1..18: red positions, endpoint distances, and maximum gaps verified.
+Direct 1024x1024 recurrence: all 233 red cells on y=x+1 agree.
+Four-letter origin: 53 candidate openings; every wall breaks by time 111.
+Certificate: data/origin_wall_breaks.csv

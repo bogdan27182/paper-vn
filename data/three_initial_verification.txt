@@ -1,0 +1,2 @@
+Description agrees with the recurrence on 2048 x 2048 cells.
+Local recurrence verified for s < 60000, 0 <= d <= 44.

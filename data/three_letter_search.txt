@@ -1,0 +1,6 @@
+Normalized symmetric rules: 129140163, keys [0,129140163), boundary 0, g(0,0,0)=1.
+Rectangle bounds: 306 in the small window, 6820 in the large window.
+Completed: 129140163 rules, 129140163 density survivors, 649981 rule/colour pairs with early nesting.
+Pairs with a level-2 box: 0. Necessary-condition candidates: 0.
+Maximum rectangle counts: small 170, large 3377. No capacity failures.
+Elapsed seconds: 415.143.
